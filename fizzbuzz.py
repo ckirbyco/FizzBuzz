@@ -1,5 +1,5 @@
 # Fizzbuzz code
-# Branch step-three: Cleaning up the code
+# Final Code Result
 
 # Iterating through the numbers 1-100
 for x in range(1, 101):
